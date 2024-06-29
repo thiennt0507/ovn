@@ -1,0 +1,6 @@
+flake8==5.0.4
+scapy
+sphinx
+setuptools
+pyelftools
+pyOpenSSL
